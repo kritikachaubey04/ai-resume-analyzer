@@ -14,3 +14,8 @@ A full-stack AI-powered platform that evaluates resumes and helps candidates pre
 - **AI/ML:** OpenAI / Gemini LLMs, pdfplumber
 
 ## Project Structure
+ai-resume-analyzer/
+├── frontend/     # React application
+├── backend/      # FastAPI server
+## Author
+Kritika Chaubey — [GitHub](https://github.com/kritikachaubey04) | [livelink](ai-resume-analyzer-pi-three.vercel.app)
